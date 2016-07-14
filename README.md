@@ -1,4 +1,6 @@
 # MyTest
 Just use to Testting
 
-使用collectionView实现滑动柱形绘图
+1.使用collectionView实现滑动柱形绘图
+
+2.根据经纬度点绘制地图轨迹
